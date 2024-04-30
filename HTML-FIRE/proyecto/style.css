@@ -1,0 +1,22 @@
+body{
+    background-image: url("fondo.jpg")
+
+}
+.card-body{
+    background-color: aliceblue;
+    margin: 20pt;
+    margin-top: 30%;
+    padding: 30pt;
+    height: 60%;
+    width: 70%;
+    border-radius: 10%;
+}
+#cuentas{
+    display: block;
+}
+#alumnos{
+    display: block;
+}
+#carrera{
+    display: block;
+}

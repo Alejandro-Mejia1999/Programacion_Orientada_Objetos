@@ -1,0 +1,23 @@
+body{
+    background-image: url("imagenes/20150404-ipad.jpg");
+}
+#regis{
+    margin-left: 20%;
+    margin-top: 20%;
+    padding-bottom: 30%;
+    padding-left: 10%;
+    background-color: white;
+    height: 80%;
+    width: 40%;
+    border-radius: 10%;
+
+}
+h1{
+    margin-left: 30%;
+}
+#boton{
+    margin-top: 5%;
+    margin-left: 10%;
+
+   
+}

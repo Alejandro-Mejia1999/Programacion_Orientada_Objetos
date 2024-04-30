@@ -1,0 +1,33 @@
+#lista1{
+    display: block;
+}
+
+.listas{
+    display:inline-block;
+    padding: 5px;
+    align-items: center;
+    
+}
+#pen{
+    background-color: aqua;
+    height: 40%;
+    width: 40%;
+}
+#reci{
+    background-color: blue;
+    height: 50%;
+    width: 50%;
+}
+body{
+    background-color:rgb(166, 204, 27);
+}
+#menu{
+    align-content: center;
+    padding-left: 5%;
+    padding-right: 10%;
+    height: 60%;
+    width: 90%;
+    background-color: aliceblue;
+    margin: 10%;
+    border-radius: 5%;
+}
